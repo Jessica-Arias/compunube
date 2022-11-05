@@ -1,4 +1,5 @@
 Dentro de la carpeta se encuentra los archivos necesarios para la implementación del microproyecto 2 de Computación en la nube, para cada punto se muestra acontinuación los comandos necesarios para su implementación:
+Nota: Los archivos en la máquina virtual se encuentran dentro de /vagrant/kubernet
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
